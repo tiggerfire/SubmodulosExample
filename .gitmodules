@@ -1,0 +1,9 @@
+[submodule "Formulario"]
+	path = Formulario
+	url = https://github.com/danielsalina/Formulario.git
+[submodule "bootstrap"]
+	path = bootstrap
+	url = https://github.com/twbs/bootstrap.git
+[submodule "composer"]
+	path = composer
+	url = https://github.com/composer/composer.git
